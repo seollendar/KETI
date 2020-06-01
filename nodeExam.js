@@ -9,3 +9,6 @@ http.createServer( (req,res)=>{
 // listem(port , host);
 
 console.log('server running at http://127.0.0.1');
+
+// cmd창에서 node nodeExam.js 실행
+// http://localhost:2222/ 브라우저 접속
